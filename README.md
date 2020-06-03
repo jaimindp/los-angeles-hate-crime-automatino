@@ -1,1 +1,1 @@
-# los-angeles-hate-crime-automatino
+# los-angeles-hate-crime-automation
